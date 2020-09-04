@@ -1,1 +1,8 @@
-
+192.168.2.245 freenas.casa.lan
+192.168.2.101 hassio.benoitvinc.com
+192.168.2.208 idrac-freenas.casa.lan
+192.168.2.240 idrac-pfsense.casa.lan
+192.168.2.234 librenms.casa.lan
+192.168.2.101 nginx.casa.lan
+192.168.2.101 pfsense.benoitvinc.com
+192.168.2.198 plex.casa.lan
